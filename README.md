@@ -11,7 +11,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multi-Language-Translation-Localization/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Multi-Language-Translation-Localization/graphs/commit-activity)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Language-Translation-Localization?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Language-Translation-Localization/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Language-Translation-Localization?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Language-Translation-Localization/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -130,26 +130,26 @@ Self-hosted, community-driven Multi-Language Translation and Localization tools.
 
 ### Open-Source Solutions Overview
 
-> The table below is sorted descending by **GitHub Stars**.
+> The table below is sorted descending by **GitHub_Stars**.
 
-| Project | GitHub Stars | License | Primary Tech Stack | Core Architecture |
+| Project | GitHub_Stars | License | Primary Tech Stack | Core Architecture |
 | :--- | :--- | :--- | :--- | :--- |
-| **[LibreTranslate](#libretranslate)** | [![GitHub stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers) | AGPL-3.0 | Python / Argos Translate | Self-hosted, offline Machine Translation API |
-| **[Argos Translate](#argos-translate)** | [![GitHub stars](https://img.shields.io/github/stars/argosopentech/argos-translate?style=social&color=white)](https://github.com/argosopentech/argos-translate/stargazers) | MIT | Python / OpenNMT / CTranslate2 | Open-source offline neural machine translation engine library |
-| **[Weblate](#weblate)** | [![GitHub stars](https://img.shields.io/github/stars/WeblateOrg/weblate?style=social&color=white)](https://github.com/WeblateOrg/weblate/stargazers) | GPL-3.0 | Python / Django / PostgreSQL / Redis | Web-based collaborative TMS with bidirectional VCS integration |
-| **[Tolgee](#tolgee)** | [![GitHub stars](https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social&color=white)](https://github.com/tolgee/tolgee-platform/stargazers) | Apache-2.0 | Kotlin / Spring Boot / TypeScript | Modern web TMS with in-context live clicking & SDKs |
-| **[Inlang](#inlang)** | [![GitHub stars](https://img.shields.io/github/stars/opral/inlang?style=social&color=white)](https://github.com/generaltranslation/inlang/stargazers) | Apache-2.0 | TypeScript / Node.js | Git-native i18n developer ecosystem & web translation editor |
-| **[Pontoon](#pontoon)** | [![GitHub stars](https://img.shields.io/github/stars/mozilla/pontoon?style=social&color=white)](https://github.com/mozilla/pontoon/stargazers) | BSD-3-Clause | Python / Django / PostgreSQL | Mozilla's production in-context web localization system |
-| **[Pootle](#pootle)** | [![GitHub stars](https://img.shields.io/github/stars/translate/pootle?style=social&color=white)](https://github.com/translate/pootle/stargazers) | GPL-3.0 | Python / Django | Classic web-based translation management tool |
-| **[Accent](#accent)** | [![GitHub stars](https://img.shields.io/github/stars/mirego/accent?style=social&color=white)](https://github.com/mirego/accent/stargazers) | Apache-2.0 | Elixir / Phoenix / React | Developer-oriented collaborative translation platform with API sync |
-| **[Translate Toolkit](#translate-toolkit)** | [![GitHub stars](https://img.shields.io/github/stars/translate/translate?style=social&color=white)](https://github.com/translate/translate/stargazers) | GPL-2.0 | Python | Essential localization format converters & quality-check engine |
-| **[LTEngine](#ltengine)** | [![GitHub stars](https://img.shields.io/github/stars/LibreTranslate/LTEngine?style=social&color=white)](https://github.com/LibreTranslate/LTEngine/stargazers) | MIT / Open Source | Rust / llama.cpp / Gemma-3 LLM | High-fidelity local AI translation engine with GPU acceleration |
-| **[Localess](#localess)** | [![GitHub stars](https://img.shields.io/github/stars/Lessify/localess?style=social&color=white)](https://github.com/Lessify/localess/stargazers) | MIT | Angular / Firebase / Google Cloud | Schema-driven headless CMS & AI-assisted localization platform |
+| **[LibreTranslate](#libretranslate)** | [![GitHub_Stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers) | AGPL-3.0 | Python / Argos Translate | Self-hosted, offline Machine Translation API |
+| **[Argos Translate](#argos-translate)** | [![GitHub_Stars](https://img.shields.io/github/stars/argosopentech/argos-translate?style=social&color=white)](https://github.com/argosopentech/argos-translate/stargazers) | MIT | Python / OpenNMT / CTranslate2 | Open-source offline neural machine translation engine library |
+| **[Weblate](#weblate)** | [![GitHub_Stars](https://img.shields.io/github/stars/WeblateOrg/weblate?style=social&color=white)](https://github.com/WeblateOrg/weblate/stargazers) | GPL-3.0 | Python / Django / PostgreSQL / Redis | Web-based collaborative TMS with bidirectional VCS integration |
+| **[Tolgee](#tolgee)** | [![GitHub_Stars](https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social&color=white)](https://github.com/tolgee/tolgee-platform/stargazers) | Apache-2.0 | Kotlin / Spring Boot / TypeScript | Modern web TMS with in-context live clicking & SDKs |
+| **[Inlang](#inlang)** | [![GitHub_Stars](https://img.shields.io/github/stars/opral/inlang?style=social&color=white)](https://github.com/generaltranslation/inlang/stargazers) | Apache-2.0 | TypeScript / Node.js | Git-native i18n developer ecosystem & web translation editor |
+| **[Pontoon](#pontoon)** | [![GitHub_Stars](https://img.shields.io/github/stars/mozilla/pontoon?style=social&color=white)](https://github.com/mozilla/pontoon/stargazers) | BSD-3-Clause | Python / Django / PostgreSQL | Mozilla's production in-context web localization system |
+| **[Pootle](#pootle)** | [![GitHub_Stars](https://img.shields.io/github/stars/translate/pootle?style=social&color=white)](https://github.com/translate/pootle/stargazers) | GPL-3.0 | Python / Django | Classic web-based translation management tool |
+| **[Accent](#accent)** | [![GitHub_Stars](https://img.shields.io/github/stars/mirego/accent?style=social&color=white)](https://github.com/mirego/accent/stargazers) | Apache-2.0 | Elixir / Phoenix / React | Developer-oriented collaborative translation platform with API sync |
+| **[Translate Toolkit](#translate-toolkit)** | [![GitHub_Stars](https://img.shields.io/github/stars/translate/translate?style=social&color=white)](https://github.com/translate/translate/stargazers) | GPL-2.0 | Python | Essential localization format converters & quality-check engine |
+| **[LTEngine](#ltengine)** | [![GitHub_Stars](https://img.shields.io/github/stars/LibreTranslate/LTEngine?style=social&color=white)](https://github.com/LibreTranslate/LTEngine/stargazers) | MIT / Open Source | Rust / llama.cpp / Gemma-3 LLM | High-fidelity local AI translation engine with GPU acceleration |
+| **[Localess](#localess)** | [![GitHub_Stars](https://img.shields.io/github/stars/Lessify/localess?style=social&color=white)](https://github.com/Lessify/localess/stargazers) | MIT | Angular / Firebase / Google Cloud | Schema-driven headless CMS & AI-assisted localization platform |
 
 ---
 
 ### LibreTranslate
-[![GitHub stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers)  
 **Stack:** 🐍 Python / Argos Translate | **License:** AGPL-3.0  
 **Repo:** [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)  
 LibreTranslate is a free, self-hosted, offline-capable machine translation API built on top of the open-source Argos Translate library. Unlike Google Translate or Microsoft Translator APIs, it operates 100% independently of commercial third-party cloud infrastructure.  
@@ -158,7 +158,7 @@ LibreTranslate is a free, self-hosted, offline-capable machine translation API b
 * **🎯 Best for:** Privacy-first self-hosted deployments, offline edge devices, and internal services requiring local machine translation.
 
 ### Argos Translate
-[![GitHub stars](https://img.shields.io/github/stars/argosopentech/argos-translate?style=social&color=white)](https://github.com/argosopentech/argos-translate/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/argosopentech/argos-translate?style=social&color=white)](https://github.com/argosopentech/argos-translate/stargazers)  
 **Stack:** 🐍 Python / OpenNMT / CTranslate2 | **License:** MIT  
 **Repo:** [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate)  
 Argos Translate is an open-source, modular neural machine translation library designed to be embedded directly into desktop and server Python applications without requiring server-side API calls.  
@@ -167,7 +167,7 @@ Argos Translate is an open-source, modular neural machine translation library de
 * **🎯 Best for:** Python developers wanting an embedded, zero-network-dependency translation engine inside local tools or desktop apps.
 
 ### Weblate
-[![GitHub stars](https://img.shields.io/github/stars/WeblateOrg/weblate?style=social&color=white)](https://github.com/WeblateOrg/weblate/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/WeblateOrg/weblate?style=social&color=white)](https://github.com/WeblateOrg/weblate/stargazers)  
 **Stack:** 🐍 Python / Django / PostgreSQL / Celery / Redis | **License:** GPL-3.0  
 **Repo:** [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)  
 Weblate is the gold standard of self-hosted, open-source Translation Management Systems, maintaining native two-way synchronization with Git and Mercurial repositories. When translators edit strings in Weblate, commits are pushed directly back into your source code repository.  
@@ -176,7 +176,7 @@ Weblate is the gold standard of self-hosted, open-source Translation Management 
 * **🎯 Best for:** Open-source ecosystems, enterprise engineering teams, and projects requiring bidirectional Git automation and strict data sovereignty.
 
 ### Tolgee
-[![GitHub stars](https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social&color=white)](https://github.com/tolgee/tolgee-platform/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social&color=white)](https://github.com/tolgee/tolgee-platform/stargazers)  
 **Stack:** ☕ Kotlin / Spring Boot / TypeScript / React | **License:** Apache-2.0  
 **Repo:** [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)  
 Tolgee is an innovative open-source localization platform built for modern web architectures (React, Angular, Vue, Svelte, Next.js). It introduces an in-context translation experience: developers and translators hold `Alt`/`Option` and click on any translated UI string in their live web application to update it instantly.  
@@ -185,7 +185,7 @@ Tolgee is an innovative open-source localization platform built for modern web a
 * **🎯 Best for:** Modern frontend developers seeking effortless in-context UI translations without manual string key hunting.
 
 ### Inlang
-[![GitHub stars](https://img.shields.io/github/stars/opral/inlang?style=social&color=white)](https://github.com/generaltranslation/inlang/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/opral/inlang?style=social&color=white)](https://github.com/generaltranslation/inlang/stargazers)  
 **Stack:** ⚡ TypeScript / Node.js | **License:** Apache-2.0  
 **Repo:** [generaltranslation/inlang](https://github.com/generaltranslation/inlang)  
 Inlang is a developer-centric, Git-native internationalization infrastructure. Instead of storing localized strings inside a remote proprietary SaaS database, Inlang reads and writes your translation files directly in your Git repository.  
@@ -194,7 +194,7 @@ Inlang is a developer-centric, Git-native internationalization infrastructure. I
 * **🎯 Best for:** GitOps-driven development teams that want complete version control ownership over every translation string.
 
 ### Pontoon
-[![GitHub stars](https://img.shields.io/github/stars/mozilla/pontoon?style=social&color=white)](https://github.com/mozilla/pontoon/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/mozilla/pontoon?style=social&color=white)](https://github.com/mozilla/pontoon/stargazers)  
 **Stack:** 🐍 Python / Django / PostgreSQL | **License:** BSD-3-Clause  
 **Repo:** [mozilla/pontoon](https://github.com/mozilla/pontoon)  
 Pontoon is Mozilla's battle-tested localization platform powering the localization of Firefox, MDN Web Docs, and Mozilla infrastructure across hundreds of locales.  
@@ -203,7 +203,7 @@ Pontoon is Mozilla's battle-tested localization platform powering the localizati
 * **🎯 Best for:** Community-driven crowd translation initiatives and applications leveraging Project Fluent for complex linguistic inflection.
 
 ### Pootle
-[![GitHub stars](https://img.shields.io/github/stars/translate/pootle?style=social&color=white)](https://github.com/translate/pootle/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/translate/pootle?style=social&color=white)](https://github.com/translate/pootle/stargazers)  
 **Stack:** 🐍 Python / Django | **License:** GPL-3.0  
 **Repo:** [translate/pootle](https://github.com/translate/pootle)  
 Pootle is one of the foundational open-source web translation portals, created by the Translate house to help open-source communities localize software strings collaboratively.  
@@ -212,7 +212,7 @@ Pootle is one of the foundational open-source web translation portals, created b
 * **🎯 Best for:** Established open-source projects with traditional gettext PO translation archives.
 
 ### Accent
-[![GitHub stars](https://img.shields.io/github/stars/mirego/accent?style=social&color=white)](https://github.com/mirego/accent/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/mirego/accent?style=social&color=white)](https://github.com/mirego/accent/stargazers)  
 **Stack:** 💧 Elixir / Phoenix / React | **License:** Apache-2.0  
 **Repo:** [mirego/accent](https://github.com/mirego/accent)  
 Accent is an open-source collaborative translation tool engineered specifically for developer workflows. It acts as an asynchronous coordination layer between development teams and translators.  
@@ -221,7 +221,7 @@ Accent is an open-source collaborative translation tool engineered specifically 
 * **🎯 Best for:** Elixir and web developers who want lightweight, collaborative translation management with complete audit trails.
 
 ### Translate Toolkit
-[![GitHub stars](https://img.shields.io/github/stars/translate/translate?style=social&color=white)](https://github.com/translate/translate/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/translate/translate?style=social&color=white)](https://github.com/translate/translate/stargazers)  
 **Stack:** 🐍 Python | **License:** GPL-2.0  
 **Repo:** [translate/translate](https://github.com/translate/translate)  
 The Translate Toolkit is an indispensable collection of Python command-line utilities and software libraries for localization engineering. It provides the computational foundation used by many translation platforms.  
@@ -230,7 +230,7 @@ The Translate Toolkit is an indispensable collection of Python command-line util
 * **🎯 Best for:** Localization engineers and DevOps developers building custom translation CI pipelines and format conversion scripts.
 
 ### LTEngine
-[![GitHub stars](https://img.shields.io/github/stars/LibreTranslate/LTEngine?style=social&color=white)](https://github.com/LibreTranslate/LTEngine/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/LibreTranslate/LTEngine?style=social&color=white)](https://github.com/LibreTranslate/LTEngine/stargazers)  
 **Stack:** 🦀 Rust / llama.cpp / Gemma-3 LLM | **License:** MIT / Open Source  
 **Repo:** [LibreTranslate/LTEngine](https://github.com/LibreTranslate/LTEngine)  
 LTEngine is an advanced, self-hosted local AI machine translation API written in high-performance Rust, fully compatible with LibreTranslate API clients and endpoints.  
@@ -239,7 +239,7 @@ LTEngine is an advanced, self-hosted local AI machine translation API written in
 * **🎯 Best for:** AI infrastructure teams wanting local, sovereign, LLM-based machine translation with maximum fidelity.
 
 ### Localess
-[![GitHub stars](https://img.shields.io/github/stars/Lessify/localess?style=social&color=white)](https://github.com/Lessify/localess/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/Lessify/localess?style=social&color=white)](https://github.com/Lessify/localess/stargazers)  
 **Stack:** 🅰️ Angular / Firebase / Google Cloud | **License:** MIT  
 **Repo:** [Lessify/localess](https://github.com/Lessify/localess)  
 Localess bridges the gap between headless Content Management Systems and localization management, designed with native Firebase serverless infrastructure.  
@@ -301,7 +301,7 @@ Contributions, suggestions, and corrections are warmly welcomed! To suggest a ne
    - Project name, official website, and GitHub repository URL.
    - Tech stack, license, and primary architectural approach.
    - Objective benefits and clear trade-offs.
-   - For open-source tools: Include the `style=social&color=white` GitHub star badge linking to the repository stargazers page.
+   - For open-source tools: Include the `style=social&color=white` GitHub Stars_Badge linking to the repository stargazers page.
 4. Ensure all links and markdown formatting render correctly.
 5. Submit a Pull Request.
 
@@ -310,3 +310,12 @@ Contributions, suggestions, and corrections are warmly welcomed! To suggest a ne
 ## 📄 License
 
 This repository is dedicated to the public domain under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (CC0-1.0) license. The individual software packages, services, and libraries referenced herein are properties of their respective owners and governed by their specific licenses.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Multi-Language-Translation-Localization&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Multi-Language-Translation-Localization_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Multi-Language-Translation-Localization_growth.svg">
+  </picture>
+</a>
